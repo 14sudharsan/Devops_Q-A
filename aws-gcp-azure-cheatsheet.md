@@ -1,4 +1,4 @@
-# â˜ï¸ AWS vs Azure vs GCP â€“ Cheat Sheet  
+# AWS vs Azure vs GCP Cheat Sheet  
 
 | **Category** | **AWS** | **Azure** | **GCP** |
 |--------------|---------|-----------|---------|
